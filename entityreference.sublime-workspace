@@ -1,0 +1,223 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"produ",
+				"product_id"
+			],
+			[
+				"item",
+				"itemNumber"
+			],
+			[
+				"pro",
+				"productSet"
+			],
+			[
+				"out",
+				"outstream"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/digerpaji/Sites/moshaya_stage5/httpdocs/profiles/commerce_kickstart/themes/commerce_kickstart_theme/template.php",
+		"/home/digerpaji/Sites/moshaya_stage5/httpdocs/profiles/commerce_kickstart/themes/commerce_kickstart_theme/templates/node--product--type.tpl.php",
+		"/home/digerpaji/Sites/moshaya_stage5/httpdocs/profiles/commerce_kickstart/modules/contrib/commerce/modules/product_reference/commerce_product_reference.module",
+		"/home/digerpaji/Sites/moshaya_stage5/httpdocs/profiles/commerce_kickstart/modules/contrib/commerce/modules/product_reference/commerce_product_reference.rules.inc",
+		"/home/digerpaji/Sites/moshaya_stage5/httpdocs/profiles/commerce_kickstart/modules/contrib/commerce/modules/product_reference/includes/views/handlers/commerce_product_reference_handler_filter_node_is_product_display.inc",
+		"/home/digerpaji/Sites/moshaya_stage5/httpdocs/profiles/commerce_kickstart/modules/contrib/commerce/modules/product_reference/includes/views/commerce_product_reference.views.inc",
+		"/home/digerpaji/Sites/moshaya_stage5/httpdocs/profiles/commerce_kickstart/modules/commerce_kickstart/commerce_kickstart_product/commerce_kickstart_product.module",
+		"/home/digerpaji/moshaya/httpdocs/coaster_importer/insert_products.php",
+		"/home/digerpaji/Sites/moshaya_stage5/httpdocs/profiles/commerce_kickstart/js/commerce_kickstart.js",
+		"/home/digerpaji/Sites/config/moshaya-stage5.com",
+		"/home/digerpaji/start_nw.sh",
+		"/home/digerpaji/moshaya/aryone.js",
+		"/home/digerpaji/Sites/moshaya_stage5/httpdocs/sites/moshaya.com/settings.php",
+		"/home/digerpaji/moshaya/httpdocs/coaster_importer/index.php",
+		"/home/digerpaji/moshaya/httpdocs/index.php",
+		"/home/digerpaji/themes/dyartlabs-logo/dyartlabs-logo.script",
+		"/home/digerpaji/themes/dyartlabs-logo/dyartlabs-logo.grub",
+		"/home/digerpaji/pos/boot.sh",
+		"/home/digerpaji/nodewebkit/nw-sample-apps/mini-code-edit/package.json",
+		"/home/digerpaji/pos/pointofsale/main.html",
+		"/home/digerpaji/nodewebkit/nw-sample-apps/mini-code-edit/main.html",
+		"/home/digerpaji/pos/start.sh",
+		"/home/digerpaji/pos/pointofsale/package.json",
+		"/home/digerpaji/pos/app/package.json",
+		"/home/digerpaji/pos/start,sh",
+		"/home/digerpaji/pos/start_chromium.sh",
+		"/home/digerpaji/pos/node_modules/nodewebkit/bin/nodewebkit",
+		"/home/digerpaji/pos/app/index.html",
+		"/home/digerpaji/pos/standalone/node_modules/package.json",
+		"/etc/hosts"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"commerce_product_reference_rendered_product",
+			"_load",
+			"reference",
+			"load",
+			"entity_load",
+			"$product",
+			"$product\n",
+			"commerce_product_reference_default_product",
+			"commerce_product_line_item_populate",
+			"commerce_product_reference_default_product",
+			"commerce_product_reference_default_product\\",
+			"d",
+			"var_du",
+			"findProductImage",
+			"absolute",
+			"product-display",
+			"set",
+			"furniture_set",
+			"field-type-fivestar",
+			"upload",
+			"dpm",
+			"Price",
+			"2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "entityreference.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 361.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
